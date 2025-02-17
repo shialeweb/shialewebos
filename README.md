@@ -1,4 +1,4 @@
 # shialewebos
 Shialeweb OS GNU/Linux 
-prueba 001 de luckywolf 
-<a href="https://shialeweb.com"> sitio web. </a> 
+<br>
+<a href="https://shialeweb.com](https://github.com/shialeweb/shialewebos/wiki"> Mas informacion en nuestra wiki. </a> 
