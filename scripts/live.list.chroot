@@ -14,7 +14,9 @@ xserver-xorg
 xinit
 firefox-esr
 vlc
+discord
 
 locales
 locales-all
 task-spanish
+task-spanish-desktop
