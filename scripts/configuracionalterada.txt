@@ -1,0 +1,14 @@
+ lb config \
+  --mode debian \
+  --distribution bookworm \
+  --architectures amd64 \
+  --binary-images iso-hybrid \
+  --linux-flavours amd64 \
+  --apt-indices false \
+  --memtest none \
+  --debian-installer none \
+  --archive-areas "main contrib non-free non-free-firmware" \
+  --iso-application "ShialewebOS" \
+  --iso-preparer "Shialeweb" \
+  --iso-publisher "Shialeweb Linux Team" \
+  --iso-volume "ShialewebOS"
