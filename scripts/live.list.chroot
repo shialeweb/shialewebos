@@ -2,7 +2,6 @@ live-boot
 live-config
 live-config-systemd
 systemd-sysv
-
 enlightenment
 terminology
 thunar
@@ -14,8 +13,7 @@ xserver-xorg
 xinit
 firefox-esr
 vlc
-discord
-
+gimp
 locales
 locales-all
 task-spanish
